@@ -9,3 +9,7 @@ Description of the freeCodeCamp section: "These free programming exercises will 
 |:----------:|:-------------:|:------:|
 | 01 | Symmetric Difference | JavaScript |
 | 02 | Pairwise | JavaScript |
+| 03 | Inventory Update | JavaScript |
+| 08 | Quick Sort | JavaScript |
+| 10 | Symmetric Difference | JavaScript |
+
